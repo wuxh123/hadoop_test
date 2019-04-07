@@ -6,6 +6,9 @@ https://github.com/wuxh123/my_bigdata
 
 ## 虚拟机地址
 
+##虚拟机密码:wuxh wuxh
+## hadoop账户密码 hadoop hadoop
+
 ## hadoop web url
 http://192.168.64.128:50070
 
