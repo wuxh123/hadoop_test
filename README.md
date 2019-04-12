@@ -5,7 +5,7 @@
 https://github.com/wuxh123/my_bigdata
 
 ## 虚拟机地址
-百度网盘限制，传不上去，需要的给我写邮件。
+TODO: 目前还没做完，以后上传docker
 
 ## hadoop web url
 http://192.168.64.128:50070
