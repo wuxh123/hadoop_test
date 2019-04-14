@@ -5,7 +5,8 @@
 https://github.com/wuxh123/my_bigdata
 
 ## 虚拟机地址
-TODO: 目前还没做完，以后上传docker
+https://pan.baidu.com/s/11DZdK7gwAJGhP0upTQxNgw
+95n4
 
 ## hadoop web url
 http://192.168.64.128:50070
