@@ -8,9 +8,6 @@ https://github.com/wuxh123/my_bigdata
 https://pan.baidu.com/s/11DZdK7gwAJGhP0upTQxNgw
 95n4
 
-## 用户名密码、安装过程
-  https://github.com/wuxh123/my_bigdata/tree/master/hadoop%E7%8E%AF%E5%A2%83%E6%9E%84%E5%BB%BA
-
 ## hadoop web url
 http://192.168.64.128:50070
 
