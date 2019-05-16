@@ -26,4 +26,5 @@ http://192.168.64.128:50070
 ## 进入hbase环境
 wuxh@ubuntu:/home/hbase/hbase-2.0.5/bin$ sudo ./hbase shell
 
-## todo hbase性能测试
+## 测试工程
+https://github.com/wuxh123/hadoop_sample
